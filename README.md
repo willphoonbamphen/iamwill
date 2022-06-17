@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @worrachatrp
-- 👀 I’m interested in Data Engineer
-- 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on Data Engineer
+- 👋 Hi, I’m Will
+- 👀 I’m interested in Software Engineer
+- 🌱 I’m currently learning Software Development
+- 💞️ I’m looking to collaborate on Development
 - 📫 How to reach me @worrachatrp
 
 <!---
